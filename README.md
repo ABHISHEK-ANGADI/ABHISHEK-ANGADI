@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek S Angadi
-- 👀 I’m interested in ...
+- 👀 I’m interested in .
 - 🌱 I’m currently learning BE in computer science @ GMIT-Davanagere
 - 💞️ I’m looking to collaborate on Software Developer
 - 📫 How to reach me GMAIL - abhiangadi@gmail.com
