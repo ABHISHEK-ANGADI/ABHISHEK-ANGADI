@@ -1,16 +1,45 @@
-## Hi there 👋
+<!-- ===================== HERO ===================== -->
 
-<!--
-**ABHISHEK-ANGADI/ABHISHEK-ANGADI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Abhishek Angadi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Full-Stack Developer · AI/ML Enthusiast · Problem Solver
+
+<p>
+  I build modern web applications and intelligent systems
+  that turn ideas into practical, scalable products.
+</p>
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+<br>
+
+<!-- ===================== ABOUT ===================== -->
+
+## 🚀 About Me
+
+```text
+💻 Full-Stack Development
+🤖 Artificial Intelligence & Machine Learning
+🧠 Deep Learning & Computer Vision
+⚙️ Backend & REST API Development
+📊 Building practical, data-driven solutions
+🌱 Constantly learning and improving
